@@ -1,2 +1,0 @@
-# vadysmusicbot
-Vady'S Music
